@@ -1,4 +1,5 @@
 # school-chat
+# Для работы нужно поднять mongodb
 npm install   
 npm run start   
 or   
